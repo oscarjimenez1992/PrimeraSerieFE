@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+LEA ESTE DOCUMENTO ANTES DE REALIZAR LA INSTALACIÓN DEL SOFTWARE
 
-## Getting Started
+AUTOR: Oscar Antonio Jiménez Juárez
+CARNET: 5190-14-4462
+CURSO: Desarrollo Web
 
-First, run the development server:
+IMPORTANTE: Para el correcto funcionamiento de este sistema se debé de contar con las siguientes configuraciones técnicas.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Java Version: 17.0.12
+Maven Version: 3.9.9
+Node js: 22.11.0
+MySql: 5.7.26
+Spring Version: 2.7.10
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Método para el consumo: POST
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+URL DEL SERVICIO Y MÉTODO:
+http://localhost:8080/TipoCambioDia
 
-## Learn More
+TRAMA: {}
 
-To learn more about Next.js, take a look at the following resources:
+Puerto para FE: 3000
+Puerto para BE: 8080
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+NOTA: Se adjunto manual de usuario, con instrucciones en forma gráfica para demostrar el uso correcto del sistema. 
